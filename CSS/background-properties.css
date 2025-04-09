@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    /* border: 5px solid red;
+    height: 749px; */
+
+    /* BACKGROUND-COLOR */
+    background-color: rgba(60, 45, 70, 0.2);
+
+    /* BACKGROUND-IMAGE */
+    background-image:url("./download.jpeg");
+
+    /* BACKGROUND-REPEAT */
+    background-repeat: repeat;
+    background-repeat: repeat-x;
+    background-repeat: repeat-y;
+    background-repeat: no-repeat;
+
+    /* BACKGROUND-POSITION */
+    background-position: top left;
+    background-position: top center;
+    background-position: top right;
+    background-position: right center;
+    background-position: bottom right;
+    background-position: bottom center;
+    background-position: bottom left;
+    background-position: left center;
+    background-position: center center;
+    background-position: top;
+    background-position: bottom;
+    background-position: left;
+    background-position: right;
+    background-position: center;
+    background-position: 300px 100px;
+    background-position: center;
+
+    /* BACKGROUND-ATTACHMENT */
+    background-color: scroll;
+    background-attachment: fixed;
+
+    /* BACKGROUND-SIZE */
+    background-size: 200px 500px;
+    background-size: cover;
+    background-size: contain;
+
+    /* BACKGROUND */
+    background: green url("./download.jpeg") no-repeat center fixed;
+}

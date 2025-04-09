@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Tint&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bytesized&display=swap');
+
+
+p{
+
+    /* FONT-STYLE */
+    font-style: normal;
+    font-style: oblique;
+    font-style: italic;  
+
+    /* FONT-SIZE */
+    font-size: larger;
+
+    /* FONT-WEIGHT */
+    font-weight: 900;
+
+    /* FONT-FAMILY */
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    font-family: "Bungee Tint", sans-serif;
+
+    font-family: "Bytesized", sans-serif;
+
+
+}

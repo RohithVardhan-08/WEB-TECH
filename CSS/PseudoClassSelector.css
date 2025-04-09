@@ -1,0 +1,61 @@
+/* hover */
+/* h1:hover{
+    color: aliceblue;
+    background-color: blueviolet;
+}
+button:hover{
+    color: bisque;
+    background-color: aquamarine;
+} */
+
+
+/* FOCUS */
+/* input:focus{
+    color: azure;
+    background-color: burlywood;
+}
+input:focus,#rl{
+    color: azure;
+    background-color: blueviolet;
+} */
+
+/* ACTIVE
+a:active{
+    color: aliceblue;
+    background-color: brown;
+} */
+
+/* VISITED */
+/* a:visited{
+    color: gold;
+} */
+
+/* FIRST-CHILD */
+/* div>p:first-child{
+    color: aliceblue;
+    background-color: aquamarine;
+} */
+
+/* LAST-CHILD */
+/* div>p:last-child{
+    color: aliceblue;
+    background-color: blueviolet;
+}
+
+/* Nth-child */
+/* div>p:nth-child(5){
+    color: aliceblue;
+    background-color: blanchedalmond;
+} */ 
+
+/* checked */
+/* input:checked+label{
+    color: aqua;
+} */
+
+
+
+/* :NOT */
+li:not(#ignore){
+    color: brown;
+}

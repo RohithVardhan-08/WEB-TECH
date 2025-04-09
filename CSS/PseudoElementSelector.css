@@ -1,0 +1,55 @@
+/* FIRST LETTER */
+/* p::first-letter{
+    color: red;
+    font-size: xx-large;
+} */
+
+/* FIRST LINE */
+/* p::first-line{
+    color: white;
+    background-color: brown;
+} */
+
+/*BEFORE */
+/* p::before{
+    content:"😊";
+} */
+
+/* AFTER */
+/* p::after{
+    content: "😘";
+} */
+
+/* SELECTOR */
+/* p::selection{
+    color: aquamarine;
+    background-color: burlywood;
+} */
+
+/* MARKER */
+#one::marker{
+    color: red;
+    content: "😂";
+}
+#two::marker{
+    color: red;
+    content: "😜";
+}
+#three::marker{
+    color: red;
+    content: "😍";
+}
+#four::marker{
+    color: red;
+    content: "😘";
+}
+#five::marker{
+    color: red;
+    content: "🤣";
+}
+
+
+/* PLACE HOLDER */
+/* input::placeholder{
+    color: aqua;
+} */

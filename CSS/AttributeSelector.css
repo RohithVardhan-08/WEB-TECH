@@ -1,0 +1,20 @@
+/* [ATTR] */
+[type]{
+    color: white;
+    background-color: blue;
+}
+[placeholder]{
+    color: white;
+    background-color: blueviolet;
+}
+
+/* [ATTR=VALUE] */
+[type="email"]{
+    color: beige;
+    background-color: chartreuse;
+}
+
+[rohith="webtech"]{
+    color: aquamarine;
+    background-color: black;
+}

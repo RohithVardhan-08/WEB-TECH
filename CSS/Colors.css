@@ -1,0 +1,20 @@
+/* RGB */
+/* section{
+    height: 500px;
+    width: 700px;
+    background-color: red;
+    background-color: rgb(0,255,255);
+    background-color: rgba(0,255,255,0.5);
+}
+section:hover{
+    background-color: rgba(20,50,200,0.7);
+} */
+
+/* HEXADECIMAL */
+section{
+    height: 500px;
+    width: 700px;
+    background-color: #ff2589;
+    background-color: #0f0;
+    background-color: #5367948d;
+}

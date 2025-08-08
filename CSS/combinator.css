@@ -1,0 +1,44 @@
+/* DESCENDENT SELECTOR */
+/* div p{
+    color: brown;
+    background-color: aquamarine;
+}
+
+
+
+/* CHILD SELECTOR */
+/*section>p{
+    color: bisque;
+    background-color: cadetblue;
+} */
+
+
+
+
+/* ADJACENT SIBLING SELECTOR */
+/* p+h1{
+    color: white;
+    background-color: blueviolet;
+}
+p+div{
+    color: aliceblue;
+    background-color: brown;
+} */
+
+
+
+/* GENERAL SIBLING SELECTOR */
+/* p~p{
+    color: aliceblue;
+    background-color: chartreuse;
+} */
+h1~p{
+    color: aliceblue;
+    background-color: chocolate;
+}
+
+
+/* h1+p{
+    color: aliceblue;
+    background-color: aqua;
+} */

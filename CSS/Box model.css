@@ -1,0 +1,43 @@
+/* h1{
+    /* border: 5px solid red;
+    margin: 50px;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    margin-left: 40px; */
+
+    /* margin: 10px 20px 30px 40px; */
+
+
+    /* PADDING */
+    /* border:5px solid red;
+    padding: 50px;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    padding-left: 40px; 
+}*/
+
+    /* box-sizing */
+/* *{
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+h1{
+    padding: 10px 20px 30px 40px;
+    border: 5px solid blue;
+    height: 300px;
+    width: 400px;
+} */
+
+/* BOX-SHADOW */
+section{
+    border: 5px solid red;
+    height: 400px;
+    width: 400px;
+    /* box-shadow: 10px 20px 30px 40px; */
+    /* border-radius: 50%; */
+    background-color: blue;
+    box-shadow: 20px 30px 40px black;
+}

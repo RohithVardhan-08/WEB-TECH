@@ -1,0 +1,13 @@
+/* input{
+    color: beige;
+    background-color: blueviolet;
+}
+button{
+    color: burlywood;
+    background-color: cornflowerblue;
+} */
+
+#food,.chicken,button{
+    color: aqua;
+    background-color: beige;
+}

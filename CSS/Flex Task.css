@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+main{
+    height: 100%;
+    width: 100%;
+    
+}
+
+nav{
+    height: 15vh;
+    background-color: white;
+    border: 2px;
+    display: flex;
+}
+
+#aside_1{
+    border: 2px solid black;
+    width: 20%;
+}
+
+#aside_2{
+    border: 2px solid black;
+    width: 80%;
+}
+
+#logo{
+    height: 50px;
+    width: 500px;
+}

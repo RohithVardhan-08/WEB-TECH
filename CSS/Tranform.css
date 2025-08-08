@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+section{
+    height: 300px;
+    width: 300px;
+    background-color: red;
+    border: 1px solid black;
+    transition: all 2s ease;
+}
+
+section:hover{
+    /* transform: translateX(600px);
+    transform: translateY(300px);
+    transform: translate(200px,300px);
+    transform: translate(100px);
+    transform: scaleX(3);
+    transform: scaleY(3);
+    transform: scaleY(0.5);
+    transform: scale(5,0.3);
+    transform: scale(2); */
+
+    transform: rotateX(90deg);
+    transform: rotateY(360deg);
+    transform: rotate(360deg);
+    transform: rotate(-360deg);
+
+    transform: skewX(45deg);
+    transform: skewY(-45deg);
+    transform: skew(30deg,-20deg);
+    transform: skew(50deg);
+}

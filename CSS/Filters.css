@@ -1,0 +1,25 @@
+img{
+    /* filter: blur(10px);
+    filter: grayscale(100%); */
+
+    filter: blur(10px);
+    filter: grayscale(100%);
+    filter: brightness(0%);
+    filter: opacity(50%);
+}
+
+img:hover{
+    /* filter: blur(0px);
+    filter: grayscale(0%); */
+
+    filter: opacity(100%);
+    filter: brightness(100%);
+    filter: blur(0px);
+    filter: grayscale(0%);
+    
+}
+
+#baby{
+   filter: drop-shadow(10px 10px 5px red);
+}
+
